@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: nodejs-sc-exemploibm
+  host: nodejs-sc-exemploibm
+  disk_quota: 1024M
